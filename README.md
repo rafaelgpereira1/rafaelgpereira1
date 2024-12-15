@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rafael! <br/><a href="https://github.com/rafaelgpereira1">, <a href="https://www.linkedin.com/in/rafaelgpereira/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Rafael! <br/><a href="https://github.com/rafaelgpereira1"> <a href="https://www.linkedin.com/in/rafaelgpereira/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
