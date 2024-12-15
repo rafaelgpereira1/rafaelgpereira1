@@ -16,8 +16,10 @@
   - [How to achieve SOC2](https://github.com/rafaelgpereira1)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
 - <b>CrowdStrike Falcon Certified Administrator</b>
-- <b>studying for CISSP</b>
+
+- <b>Studying for CISSP</b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
