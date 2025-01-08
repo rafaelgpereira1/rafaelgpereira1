@@ -7,9 +7,9 @@
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Using Open-Source Solutions and Automation](https://github.com/rafaelgpereira1/VulnerabilityLab)
 - <b> FIM </b>
-  - [How to achieve SOC2](https://github.com/rafaelgpereira1/FIM)
-- <b> SIEM </b>
-  - [How to achieve SOC2](https://github.com/rafaelgpereira1/SIEM)
+  - [File Integrity Monitoring (FIM)](https://github.com/rafaelgpereira1/FIM)
+- <b> SIEM </b>  
+  - [ SIEM ](https://github.com/rafaelgpereira1/SIEM)
  
 <h2>👨‍💻 Certifications:</h2>
 
