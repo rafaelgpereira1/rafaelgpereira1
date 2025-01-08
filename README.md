@@ -2,29 +2,25 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Development of the cybersecurity area </b>
-  - [How to develop a cybersecurity area from zero](https://github.com/rafaelgpereira1)
-- <b>NDR Solution Deployment </b>
-  - [Stamus NDR solution Deployment and configuration](https://github.com/rafaelgpereira1) 
-- <b>Endpoint Protection Deployment</b>
-  - [CrowdStrike Endpoint Protection Deployment and Configuration](https://github.com/rafaelgpereira1)
 - <b>Cybersecurity Awareness Training</b>
   - [Ninjio Cybersecurity Awareness training platform](https://github.com/rafaelgpereira1/CybersecurityAwarenessLab )
 - <b>Vulnerability Management</b>
   - [Vulnerability Management Using Open-Source Solutions and Automation](https://github.com/rafaelgpereira1/VulnerabilityLab)
-- <b>SOC 2 Compliance Project</b>
-  - [How to achieve SOC2](https://github.com/rafaelgpereira1)
+- <b> FIM </b>
+  - [How to achieve SOC2](https://github.com/rafaelgpereira1/FIM)
+- <b> SIEM </b>
+  - [How to achieve SOC2](https://github.com/rafaelgpereira1/SIEM)
  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
 - <b>CrowdStrike Falcon Certified Administrator</b>
 
 - <b>Studying for CISSP</b>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<!---<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)--->
 
 <h2> 🤳 Connect with me:</h2>
 
