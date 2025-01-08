@@ -11,7 +11,7 @@
 - <b>Cybersecurity Awareness Training</b>
   - [Ninjio Cybersecurity Awareness training platform](https://github.com/rafaelgpereira1)
 - <b>Vulnerability Management</b>
-  - [Vulnerability Management Using Open-Source Solutions and Automation](https://github.com/rafaelgpereira1)
+  - [Vulnerability Management Using Open-Source Solutions and Automation](https://github.com/rafaelgpereira1/VulnerabilityLab)
 - <b>SOC 2 Compliance Project</b>
   - [How to achieve SOC2](https://github.com/rafaelgpereira1)
  
